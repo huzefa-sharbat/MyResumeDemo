@@ -1,2 +1,2 @@
 # MyResumeDemo
-my first resume
+This is just a demo resume made using html and css
